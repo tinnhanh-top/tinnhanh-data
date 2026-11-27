@@ -2,17 +2,17 @@
 
 Lãi suất tiết kiệm, giá vàng, tỷ giá ngoại tệ, giá xăng dầu và điểm chỉ số chứng khoán Việt Nam, mỗi ngày một dòng cho mỗi mã. [TinNhanh](https://tinnhanh.top/du-lieu) lấy số từ bảng giá công khai của các ngân hàng, PNJ, Vietcombank, Saigon Petro và DNSE, rồi đưa lên kho này mỗi tối.
 
-Cập nhật lần cuối: 26/11/2026 23:05 (giờ Việt Nam).
+Cập nhật lần cuối: 27/11/2026 23:05 (giờ Việt Nam).
 
 ## Các file
 
 | File | Nội dung | Từ ngày | Đến ngày | Số dòng |
 |---|---|---|---|---:|
-| [data/lai-suat.csv](data/lai-suat.csv) | Lãi suất tiết kiệm theo ngày của 8 ngân hàng | 09/11/2026 | 26/11/2026 | 1.640 |
-| [data/gia-vang.csv](data/gia-vang.csv) | Giá vàng miếng SJC và vàng nhẫn theo ngày | 02/11/2026 | 26/11/2026 | 50 |
-| [data/ty-gia.csv](data/ty-gia.csv) | Tỷ giá ngoại tệ Vietcombank theo ngày | 02/11/2026 | 26/11/2026 | 200 |
-| [data/gia-xang.csv](data/gia-xang.csv) | Giá xăng dầu bán lẻ theo ngày | 09/11/2026 | 26/11/2026 | 72 |
-| [data/chi-so.csv](data/chi-so.csv) | Điểm đóng cửa VN-Index, VN30, HNX-Index, UPCoM-Index | 10/08/2026 | 26/11/2026 | 300 |
+| [data/lai-suat.csv](data/lai-suat.csv) | Lãi suất tiết kiệm theo ngày của 8 ngân hàng | 09/11/2026 | 27/11/2026 | 1.733 |
+| [data/gia-vang.csv](data/gia-vang.csv) | Giá vàng miếng SJC và vàng nhẫn theo ngày | 02/11/2026 | 27/11/2026 | 52 |
+| [data/ty-gia.csv](data/ty-gia.csv) | Tỷ giá ngoại tệ Vietcombank theo ngày | 02/11/2026 | 27/11/2026 | 208 |
+| [data/gia-xang.csv](data/gia-xang.csv) | Giá xăng dầu bán lẻ theo ngày | 09/11/2026 | 27/11/2026 | 76 |
+| [data/chi-so.csv](data/chi-so.csv) | Điểm đóng cửa VN-Index, VN30, HNX-Index, UPCoM-Index | 10/08/2026 | 27/11/2026 | 304 |
 
 ## Định dạng
 
